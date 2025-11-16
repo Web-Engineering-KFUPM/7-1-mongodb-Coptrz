@@ -163,7 +163,7 @@
          await Student.deleteOne({ name: "Sara" });
       console.log("✅ Deleted Sara");
       }
- * - Run server: node server.js and got to mongo cloud to verify, document is deleted.
+ * - Run server: node ser ver.js and got to mongo cloud to verify, document is deleted.
  * 
  */
 
